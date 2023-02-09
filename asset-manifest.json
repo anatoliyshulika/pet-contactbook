@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pet-contactbook/static/css/main.e93bfa33.css",
+    "main.js": "/pet-contactbook/static/js/main.5cc8e6f0.js",
+    "static/js/680.11bdac8f.chunk.js": "/pet-contactbook/static/js/680.11bdac8f.chunk.js",
+    "static/js/965.ae7679a1.chunk.js": "/pet-contactbook/static/js/965.ae7679a1.chunk.js",
+    "static/js/664.ef335c6d.chunk.js": "/pet-contactbook/static/js/664.ef335c6d.chunk.js",
+    "static/js/316.974fece1.chunk.js": "/pet-contactbook/static/js/316.974fece1.chunk.js",
+    "static/js/78.de0003e4.chunk.js": "/pet-contactbook/static/js/78.de0003e4.chunk.js",
+    "static/js/184.9330458c.chunk.js": "/pet-contactbook/static/js/184.9330458c.chunk.js",
+    "static/media/bgimg.jpeg": "/pet-contactbook/static/media/bgimg.92f8e75d239b95ea4cc2.jpeg",
+    "static/media/public-sans-all-400-normal.woff": "/pet-contactbook/static/media/public-sans-all-400-normal.74e7e7d8ab558dd108a1.woff",
+    "static/media/public-sans-latin-400-normal.woff2": "/pet-contactbook/static/media/public-sans-latin-400-normal.4758638f2eeeaf0dd6c4.woff2",
+    "static/media/public-sans-latin-ext-400-normal.woff2": "/pet-contactbook/static/media/public-sans-latin-ext-400-normal.cbd34e580c9965bfc3c9.woff2",
+    "static/media/public-sans-vietnamese-400-normal.woff2": "/pet-contactbook/static/media/public-sans-vietnamese-400-normal.4490eed5a77c4164de3d.woff2",
+    "index.html": "/pet-contactbook/index.html",
+    "main.e93bfa33.css.map": "/pet-contactbook/static/css/main.e93bfa33.css.map",
+    "main.5cc8e6f0.js.map": "/pet-contactbook/static/js/main.5cc8e6f0.js.map",
+    "680.11bdac8f.chunk.js.map": "/pet-contactbook/static/js/680.11bdac8f.chunk.js.map",
+    "965.ae7679a1.chunk.js.map": "/pet-contactbook/static/js/965.ae7679a1.chunk.js.map",
+    "664.ef335c6d.chunk.js.map": "/pet-contactbook/static/js/664.ef335c6d.chunk.js.map",
+    "316.974fece1.chunk.js.map": "/pet-contactbook/static/js/316.974fece1.chunk.js.map",
+    "78.de0003e4.chunk.js.map": "/pet-contactbook/static/js/78.de0003e4.chunk.js.map",
+    "184.9330458c.chunk.js.map": "/pet-contactbook/static/js/184.9330458c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e93bfa33.css",
+    "static/js/main.5cc8e6f0.js"
+  ]
+}
